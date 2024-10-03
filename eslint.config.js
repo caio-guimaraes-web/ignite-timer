@@ -29,7 +29,7 @@ export default [
     },
     rules: {
       ...rocketseatConfig.rules,
-      "prettier/prettier": "error", // Usando as regras do Prettier
+      /* "prettier/prettier": "error", */ // Usando as regras do Prettier
       "jsx-a11y/alt-text": "warn", // Exemplo de regra de acessibilidade
     },
     settings: {
