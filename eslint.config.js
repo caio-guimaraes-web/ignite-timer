@@ -3,10 +3,10 @@ import reactHooks from "eslint-plugin-react-hooks"
 import reactRefresh from "eslint-plugin-react-refresh"
 import tseslint from "@typescript-eslint/eslint-plugin"
 import tsparser from "@typescript-eslint/parser"
-import rocketseatConfig from "@rocketseat/eslint-config/react.js" // Corrigido o caminho
-import prettier from "eslint-plugin-prettier" // Adicionando o plugin do Prettier
-import prettierConfig from "eslint-config-prettier" // Importando a configuração do Prettier
-import jsxA11y from "eslint-plugin-jsx-a11y" // Adicionando o plugin de acessibilidade
+import rocketseatConfig from "@rocketseat/eslint-config/react.js" 
+import prettier from "eslint-plugin-prettier" 
+import prettierConfig from "eslint-config-prettier" 
+import jsxA11y from "eslint-plugin-jsx-a11y" 
 
 export default [
   {
